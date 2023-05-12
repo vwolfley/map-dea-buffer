@@ -32,8 +32,8 @@ In the project directory, you can run:
 
 ### Version | 1.0.0
 
-- #### Updated | 2023-04-24
-- #### Created | 2023-04-19
+- #### Updated | 2023-05-12
+- #### Created | 2023-05-12
 
 Releases will be numbered with the following format:
 
